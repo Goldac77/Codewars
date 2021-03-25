@@ -21,4 +21,3 @@ function tribonacci(signature,n){
   }
   return result
 }
- Correctamundo! You ma
