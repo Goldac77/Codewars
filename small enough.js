@@ -11,3 +11,17 @@ function smallEnough(a, limit){
     return false
   }
 }
+
+
+//Alternative solution booooi
+
+//Inspired from the top solution in python, and guess what, the same idea (but different code) is the top solution for js
+
+function smallEnough(a, limit){
+  var x = Math.max(...a)        //something new: the ...(spread operator) is necessary...
+  if (x <= limit){
+    return true
+  } else {
+    return false
+  }
+}
