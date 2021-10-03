@@ -17,3 +17,16 @@ def is_palindrome(s):
         return True
     else:
         return False
+    
+#solution 3 by Alabaster-and(https://github.com/alabaster-and)
+def is_palindrome(s):
+    s = s.lower()
+    news = list(s)
+    pals = news[::-1]
+    pals = "".join(pals)
+    if(s == pals):
+        return True
+    else:
+        return False
+
+
