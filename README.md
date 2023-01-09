@@ -10,3 +10,6 @@ I will be providing the solutions in all possible languages I can code in
 <li>Python</li>
 <li>Javascript</li>
 <li>C++</li>
+
+# Update
+This repo was a way from keeping trophies to remind myself of my progress, but I will no longer be updating it. This is because I find it to no longer be a neccesity...
